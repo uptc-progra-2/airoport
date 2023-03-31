@@ -1,6 +1,6 @@
 package co.uptc.edu.airplan.model;
 
-public class HelloWorldResponse {
+public class HelloWorldResponse{
 	
 	String data;
 	

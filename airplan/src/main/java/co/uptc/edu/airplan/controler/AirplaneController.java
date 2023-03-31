@@ -10,6 +10,6 @@ public class AirplaneController {
 	
 	@GetMapping("/hello-world")
 	public HelloWorldResponse helloWord() {
-		return new HelloWorldResponse("Hello Wolrd");
+		return new HelloWorldResponse("");
 	}
 }
